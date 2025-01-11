@@ -27,7 +27,7 @@ where
 }
 
 mod tests {
-    use crate::{Dimensional, LinearArrayStorage};
+    use crate::{brownian::brownian_motion, Dimensional, LinearArrayStorage};
     
 
     #[test]
